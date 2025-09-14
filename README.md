@@ -1,1 +1,2 @@
-# Mini_project_1_DDP
+# MINI PROJECT SISTEM ATM
+
